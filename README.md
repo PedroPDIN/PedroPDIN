@@ -8,7 +8,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro.oficial1969@gmail.com)
 
 ##
-<div>
+<div width=100%>
 <a href="https://github.com/PedroPDIN">
 <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPDIN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPDIN&layout=compact&langs_count=7&theme=dark" />
