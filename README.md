@@ -8,8 +8,8 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.oficial1969@gmail.com)
 ##
 <div>
-<a ref='https://www.codewars.com/users/PedroPDIN'>
-<img width=150px alt='logo codewars'src="https://secureservercdn.net/160.153.138.53/610.341.myftpupload.com/wp-content/uploads/2017/09/codewars.png"/>
+<a href='https://www.codewars.com/users/PedroPDIN'>
+<img width=150px alt='logo codewars' src="https://secureservercdn.net/160.153.138.53/610.341.myftpupload.com/wp-content/uploads/2017/09/codewars.png"/>
 <div/>
 	
 <img height=340px width=100% src='https://i.pinimg.com/originals/ea/c2/61/eac26181f6a03a98c7828992be7e346a.gif'>
