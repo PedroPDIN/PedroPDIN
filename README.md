@@ -8,9 +8,9 @@
 ##
 
 <div>
-<a href='https://www.codewars.com/users/PedroPDIN'>
-<img width=150px alt='logo codewars' src="https://secureservercdn.net/160.153.138.53/610.341.myftpupload.com/wp-content/uploads/2017/09/codewars.png"/>
-<div/>
+<a href="https://www.codewars.com/users/PedroPDIN" target="_blank">
+    <img width="165" src="https://www.codewars.com/users/PedroPDIN/badges/micro" />
+  </a>
 	
 <img height=340px width=100% src='https://i.pinimg.com/originals/ea/c2/61/eac26181f6a03a98c7828992be7e346a.gif'>
 	
