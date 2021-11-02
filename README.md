@@ -5,12 +5,13 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PedroPdin)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.oficial1969@gmail.com)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/PDINN/)
-##
 
 <div>
 <a href="https://www.codewars.com/users/PedroPDIN" target="_blank">
     <img width="165" src="https://www.codewars.com/users/PedroPDIN/badges/micro" />
-  </a>
+</a>
+	
+##
 	
 <img height=340px width=100% src='https://i.pinimg.com/originals/ea/c2/61/eac26181f6a03a98c7828992be7e346a.gif'>
 	
