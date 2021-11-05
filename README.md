@@ -24,7 +24,7 @@
 	
 ##
 
-## Tecnologia em que eu uso diariamente:
+## Technology I use daily:
 	
 <div style = 'display: inline_block'>
 <img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
