@@ -34,5 +34,3 @@
 </div>
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)
-
-### Sou amante por tecnologia e iniciando a viagem pelo multiverso da programação.
