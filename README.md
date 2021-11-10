@@ -27,10 +27,11 @@
 ## Technology I use daily:
 	
 <div style = 'display: inline_block'>
-<img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
-<img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
-<img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
-<img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg'/>
+<img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' />
+<img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' />
+<img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />
+<img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' />
+<img align='center' width=50px alt='react' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' />
 </div>
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)
