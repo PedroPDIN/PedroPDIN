@@ -1,4 +1,14 @@
 ### Hi, my name is Pedro Lima. :vulcan_salute:
+
+<p>
+  <span><font size="5"> 😄 21 years old,</font></span>
+  <br>
+  <span><font size="5">🏠 Parauapebas - PA 🇧🇷,</font></span>
+  <br>
+  <span><font size="5">📓 Web Development Student at Trybe.</font></span>
+  <br>
+</p>
+
 ##	
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046709631074)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedropdin/)
@@ -23,13 +33,14 @@
 </div>
 	
 ##
-
+	
 ## Technology I use daily:
 	
 <div style = 'display: inline_block'>
 <img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' />
 <img align='center' width=50px alt='html5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align='center' width=50px alt='css3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align='center' width=50px alt='jest' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align='center' width=50px alt='markdown' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' />
 <img align='center' width=50px alt='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
