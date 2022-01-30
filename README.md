@@ -56,6 +56,9 @@
 <a href="https://pt-br.reactjs.org/">
 <img align='center' width=50px alt='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </a>
+<a href="https://redux.js.org/">
+<img align='center' width=50px alt='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</a>
 </div>
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)
