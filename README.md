@@ -38,14 +38,24 @@
 	
 <div style = 'display: inline_block'>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
 <img align='center' width=50px alt='javascript' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' />
 </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
 <img align='center' width=50px alt='html5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
 <img align='center' width=50px alt='css3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</a>
+<a href="https://jestjs.io/pt-BR/docs/using-matchers">
 <img align='center' width=50px alt='jest' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+</a>
+<a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open">
 <img align='center' width=50px alt='markdown' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' />
+</a>
+<a href="https://pt-br.reactjs.org/">
 <img align='center' width=50px alt='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</a>
 </div>
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)
