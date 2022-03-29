@@ -1,7 +1,7 @@
 ### Hi, my name is Pedro Lima. :vulcan_salute:
 
 <p>
-  <span><font size="5"> 😄 21 years old,</font></span>
+  <span><font size="5"> 😄 22 years old,</font></span>
   <br>
   <span><font size="5">🏠 Parauapebas - PA 🇧🇷,</font></span>
   <br>
