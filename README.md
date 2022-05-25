@@ -60,7 +60,16 @@
 <img align='center' width=50px alt='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </a>
 <a href="https://redux.js.org/">
-<img align='center' width=50px alt='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align='center' width=50px alt='redux' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</a>
+<a href="https://nodejs.org/en/docs/">
+<img align='center' width=50px alt='node' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</a>
+<a href="https://expressjs.com/pt-br/">
+<img align='center' width=50px alt='express' src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" />
+</a>
+<a href="https://expressjs.com/pt-br/">
+<img align='center' width=50px alt='typescript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </a>
 </div>
 
