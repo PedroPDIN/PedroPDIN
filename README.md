@@ -1,11 +1,11 @@
 ### Olá, meu nome é Pedro Lima. :vulcan_salute:
 
 <p>
-  <span><font size="5"> 😄 22 years old,</font></span>
+  <span><font size="5"> 😄 22 anos de idade,</font></span>
   <br>
   <span><font size="5">🏠 Parauapebas - PA 🇧🇷,</font></span>
   <br>
-  <span><font size="5">📓 Web Development Student at Trybe.</font></span>
+  <span><font size="5">📓 Estudante de desenvolvimento web na Trybe.</font></span>
   <br>
 </p>
 
