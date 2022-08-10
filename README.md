@@ -1,4 +1,4 @@
-### Hi, my name is Pedro Lima. :vulcan_salute:
+### Olá, meu nome é Pedro Lima. :vulcan_salute:
 
 <p>
   <span><font size="5"> 😄 22 years old,</font></span>
