@@ -1,12 +1,14 @@
-### Olá, meu nome é Pedro Lima. :vulcan_salute: 
-### Sou apaixonado por tecnologia, programação e games.
+<h2 align="center"> 
+	Olá, meu nome é Pedro Lima. <br>
+	Sou apaixonado por tecnologia, programação e games:vulcan_salute:
+</h2>
 
 <p>
   <span><font size="5"> 😄 22 anos de idade,</font></span>
   <br>
   <span><font size="5">🏠 Parauapebas - PA 🇧🇷,</font></span>
   <br>
-  <span><font size="5">📓 Estudante de desenvolvimento web na Trybe.</font></span>
+  <span><font size="5">📓 Estudante em formação de desenvolvimento web na Trybe.</font></span>
   <br>
 </p>
 
