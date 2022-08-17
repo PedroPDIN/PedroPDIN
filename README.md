@@ -22,7 +22,6 @@
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-pedrolima)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pdinbr/)
 
-<div>
 <a href="https://www.codewars.com/users/PedroPDIN" target="_blank">
     <img width="165" src="https://www.codewars.com/users/PedroPDIN/badges/micro" />
 </a>
