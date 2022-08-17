@@ -29,7 +29,7 @@
 	
 ##
 	
-<img height=340px width=100% src='https://i.pinimg.com/originals/ea/c2/61/eac26181f6a03a98c7828992be7e346a.gif'>
+<img height=200px width=100% src='https://i.pinimg.com/originals/ea/c2/61/eac26181f6a03a98c7828992be7e346a.gif'>
 	
 ##
 <div>
@@ -38,9 +38,7 @@
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPDIN&layout=compact&langs_count=7&theme=dark" />
 </div>
 	
-##
-	
-## Technology I use daily:
+## Tecnologia que mais uso diariamente:
 	
 <div style = 'display: inline_block'>
 
