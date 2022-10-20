@@ -8,7 +8,7 @@
   <br>
   <span><font size="5">🏠 Parauapebas - PA 🇧🇷,</font></span>
   <br>
-  <span><font size="5">📓 Estudante em formação de desenvolvimento web na Trybe.</font></span>
+  <span><font size="5">📓 Sou Desenvolvedor Front-end</font></span>
   <br>
 </p>
 
