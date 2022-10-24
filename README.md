@@ -74,6 +74,15 @@
 <a href="[tailwindcss](https://www.typescriptlang.org/branding/)">
 <img align='center' width=50px alt='tailwindcss' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </a>
+<a href="https://sass-lang.com/documentation">
+<img align='center' width=50px alt='sass' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
+</a>
+<a href="https://docs.python.org/3/">
+<img align='center' width=50px alt='styled-component' src='https://styled-components.com/logo.png' />
+</a>
+<a href="https://styled-components.com">
+<img align='center' width=50px alt='python' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
+</a>
 </div>
 
   ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)
