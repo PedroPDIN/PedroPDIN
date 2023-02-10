@@ -65,10 +65,13 @@
 <a href="https://nodejs.org/en/docs/">
 <img align='center' width=50px alt='node' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
+<a href="https://dev.mysql.com/doc/">
+<img align='center' width=50px alt='MySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</a>
 <a href="https://expressjs.com/pt-br/">
 <img align='center' width=50px alt='express' src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" />
 </a>
-<a href="https://expressjs.com/pt-br/">
+<a href="[https://expressjs.com/pt-br/](https://www.typescriptlang.org/docs/)">
 <img align='center' width=50px alt='typescript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </a>
 <a href="[tailwindcss](https://www.typescriptlang.org/branding/)">
