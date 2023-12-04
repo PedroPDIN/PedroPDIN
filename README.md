@@ -28,9 +28,6 @@
 	
 ##
 	
-<img height=200px width=100% src='https://i.pinimg.com/originals/ea/c2/61/eac26181f6a03a98c7828992be7e346a.gif'>
-	
-##
 <div>
 <a href="https://github.com/PedroPDIN">
 <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPDIN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -86,6 +83,11 @@
 <a href="https://docs.python.org/3/">
 <img align='center' width=50px alt='python' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
 </a>
+<a href="https://nextjs.org/docs">
+<img align='center' width=50px alt='python' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' />
+</a>
 </div>
 
-  ![Snake animation](https://github.com/PedroPDIN/PedroPDIN/blob/output/github-contribution-grid-snake.svg)
+##
+
+<img height=200px width=100% src='https://i.pinimg.com/originals/ea/c2/61/eac26181f6a03a98c7828992be7e346a.gif'>
