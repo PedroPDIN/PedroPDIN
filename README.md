@@ -4,7 +4,7 @@
 </h2>
 
 <p>
-  <span><font size="5"> 😄 22 anos de idade,</font></span>
+  <span><font size="5"> 😄 24 anos de idade,</font></span>
   <br>
   <span><font size="5">🏠 Parauapebas - PA 🇧🇷,</font></span>
   <br>
